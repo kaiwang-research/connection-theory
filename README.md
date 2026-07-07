@@ -103,15 +103,7 @@ Coming Soon
 
 ## Roadmap
 
-Foundation
-        ↓
-Framework
-        ↓
-Mathematics
-        ↓
-Experiments
-        ↓
-Applications
+Foundation → Framework → Mathematics → Experiments → Applications
 
 
 ---
