@@ -35,11 +35,27 @@ Each concept is documented independently and serves as part of the common concep
 
 ---
 
-## Relationships Between Concepts
+## Conceptual Structure
 
-The current conceptual hierarchy can be summarized as:
+The current conceptual structure is summarized below:
 
-Continuous Reality → Persistent Existence → Organization → Connection → Flow → Constraint → Feedback → Adaptation
+```text
+Continuous Reality
+         │
+         ▼
+Persistent Existence
+         │
+         ▼
+	Organization
+      /      \
+Connection   Flow
+      \      /
+     Constraint
+          │
+      Feedback
+          │
+     Adaptation
+```
 
 This hierarchy represents the current conceptual organization of the framework and may continue to evolve as the theory develops.
 
