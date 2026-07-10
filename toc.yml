@@ -1,0 +1,50 @@
+sections:
+  - title: Getting Started
+    items:
+      - title: Documentation Home
+        href: /docs
+      - title: About
+        href: /about
+
+  - title: Foundations
+    items:
+      - title: Overview
+        href: /docs/foundations
+
+  - title: Concepts
+    items:
+      - title: Reality
+        href: /docs/concepts/reality
+      - title: Working Presuppositions
+        href: /docs/concepts/working-presuppositions
+      - title: Continuous Reality
+        href: /docs/concepts/continuous-reality
+      - title: Observation and Encoding
+        href: /docs/concepts/observation-and-encoding
+      - title: Abstraction
+        href: /docs/concepts/abstraction
+      - title: Framework
+        href: /docs/concepts/framework
+      - title: Persistent Existence
+        href: /docs/concepts/persistent-existence
+      - title: Identity
+        href: /docs/concepts/identity
+      - title: Organization
+        href: /docs/concepts/organization
+      - title: Connection
+        href: /docs/concepts/connection
+      - title: Flow
+        href: /docs/concepts/flow
+      - title: Constraint
+        href: /docs/concepts/constraint
+      - title: Feedback
+        href: /docs/concepts/feedback
+      - title: Adaptation
+        href: /docs/concepts/adaptation
+      - title: Empirical Research Program
+        href: /docs/concepts/empirical-research-program
+
+  - title: Papers
+    items:
+      - title: Papers Overview
+        href: /papers
